@@ -172,5 +172,4 @@ select spent_most_on_music.*
 from spent_most_on_music
 join most_spent
 on spent_most_on_music.country = most_spent.country
-
 where spent_most_on_music.total_spending = most_spent.max_spending;
