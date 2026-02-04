@@ -41,7 +41,7 @@ group by c.customer_id
 order by t desc
 limit 1
 
--- 6. Write query to return the email, first name, last name, & Genre of all Rock Music listeners. Return your list ordered alphabetically by email starting with A
+--6. Write query to return the email, first name, last name, & Genre of all Rock Music listeners. Return your list ordered alphabetically by email starting with A\*
 
 select distinct c.email, c.first_name, c.last_name 
 from customer as c
@@ -172,4 +172,5 @@ select spent_most_on_music.*
 from spent_most_on_music
 join most_spent
 on spent_most_on_music.country = most_spent.country
+
 where spent_most_on_music.total_spending = most_spent.max_spending;
