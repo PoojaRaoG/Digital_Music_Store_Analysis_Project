@@ -1,6 +1,8 @@
 # 🎼 Digital_Music_Store_Analysis_Project
 ## Transformed raw music store data into an interactive **Power BI** dashboard using **SQL** for analysis.
 
+<img width="897" height="547" alt="Digital_Music_Store_Report-Global_Operations_Dashboard" src="https://github.com/user-attachments/assets/39216352-27e4-4ff3-9b1e-7da5fc811b5c" />
+
 ## Project Overview
 This **project performs** a comprehensive analysis of a digital music store's database. By applying **SQL** for complex **data extraction** and **Power BI** for **interactive visualization**, I transformed raw transactional data into actionable business insights. The goal was to identify top-performing regions, loyal customers, organizational hierarchy, and genre-specific trends to drive marketing and operational strategies.
 
